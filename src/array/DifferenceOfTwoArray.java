@@ -8,12 +8,9 @@ public class DifferenceOfTwoArray {
      * Difference between Two Arrays: Where arr2 is always greater than arr1 and digit lies from o to 9
      * @param arr1 passing arr1 as an argument
      * @param arr2 passing arr2 as an argument
+     * @TimeComplexity: O(N) Where N is length of the array.
+     * @SpaceComplexity: O(N) Where N is length of the array.
      */
-
-    /*
-    * TimeComplexity: O(N) Where N is length of the array
-    * SpaceComplexity: O(N) Where N is length of the array
-    * */
     private static void printDifference (int[] arr1, int[] arr2) {
 
         int[] diff = new int[arr2.length];

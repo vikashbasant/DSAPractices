@@ -36,6 +36,14 @@ public class SelectMaximumDifference {
         return result;
     }
 
+    /**
+     * This Method Used to Maximum Difference between left - right:
+     * @param N passing N as an argument.
+     * @param A passing A as an argument.
+     * @return return int[].
+     * @TimeComplexity: O(N) where N is the size of array.
+     * @SpaceComplexity: O(N) where N is the size of array.
+     */
     public static int[] findDifferenceArray(int N, int A[]) {
 
         // Calculate prefix min array:

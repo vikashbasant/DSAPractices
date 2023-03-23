@@ -6,8 +6,8 @@ public class SpanOfAnArray {
 
     /**
      * Span of Array i.e (Maximum Element - Minimum Element) of Array:
-     * TimeComplexity: O(N) where N is the length of the input array
-     * SpaceComplexity: O(1)
+     * @TimeComplexity: O(N) where N is the length of the input array
+     * @SpaceComplexity: O(1)
      * @param arr passing array as an argument.
      * @return return difference of max-min element of array:
      */

@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class MaximumCountOfPositiveIntegerAndNegativeInteger {
 
+    /**
+     *This method will give negative number last index:
+     * @param arr passing arr as an argument.
+     * @return return last index.
+     * @TimeComplexity: O(logN)
+     * @SpaceCompleted: O(1)
+     */
     private static int negativePositions (int[] arr) {
         int i = 0;
         int j = arr.length-1;
@@ -23,6 +30,13 @@ public class MaximumCountOfPositiveIntegerAndNegativeInteger {
     }
 
 
+    /**
+     * This method will give the first index positive number:
+     * @param arr passing arr as an argument.
+     * @return return the first index.
+     * @TimeComplexity: O(logN)
+     * @SpaceComplexity: O(1)
+     */
     private static int positivePositions (int[] arr) {
         int i = 0;
         int j = arr.length-1;
@@ -42,7 +56,13 @@ public class MaximumCountOfPositiveIntegerAndNegativeInteger {
     }
 
 
-
+    /**
+     * This method will return the maximum count of positive & negative number:
+     * @param nums passing nums as an argument.
+     * @return return maximum count of positive & negative number.
+     * @TimeComplexity: O(logN)
+     * @SpaceComplexity: O(1)
+     */
     private static int maximumCount(int[] nums) {
 
         int pPos = positivePositions(nums);

@@ -11,12 +11,10 @@ public class SumOfTwoArray {
      * sumBetter Method add two array:
      * @param arr1 passing arr1 as an argument.
      * @param arr2 passing arr2 as an argument.
+     * @TimeComplexity: O(N) where N is length of array.
+     * @SpaceComplexity: O(N) Where N is length of Array.
      */
 
-    /*
-    * TimeComplexity: O(N) where N is length of array.
-    * SpaceComplexity: O(N) Where N is length of Array.
-    * */
     private static void sumBetter (int[] arr1, int[] arr2) {
 
         int sArr1 = arr1.length;
@@ -63,10 +61,13 @@ public class SumOfTwoArray {
         }
     }
 
-    /*
-     * TimeComplexity: O(N) where N is length of Array.
-     * SpaceComplexity: O(N) Where N is length of Array.
-     * */
+    /**
+     * sum Method add two array:
+     * @param arr1 passing arr1 as an argument.
+     * @param arr2 passing arr2 as an argument.
+     * @TimeComplexity: O(N) where N is length of array.
+     * @SpaceComplexity: O(N) Where N is length of Array.
+     */
     private static void sum (int[] arr1, int[] arr2) {
 
         int sizeOfArr1 = arr1.length;
