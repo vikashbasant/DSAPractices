@@ -23,3 +23,9 @@ L
 src/array/SumOfTwoArray.java,3\2\32f65b9e9e5782f81bb74c8e86d4ad835cd140e6
 J
 src/array/SubSetArray.java,e\e\ee57f02ad571ae9484244be8636bfc911a0e3056
+V
+&src/stack/CheckIsBalancedBrackets.java,9\0\90c85ff8ff288c911244fa61fb5e751be0e382df
+R
+"src/variable/InstanceVariable.java,1\f\1f32dd95e735dc270d4652a208718c4260f8d90f
+P
+ src/variable/StaticVariable.java,9\5\95b095a0c6051e3628ec4735567bf62d90dcb09a
