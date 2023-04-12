@@ -29,3 +29,9 @@ R
 "src/variable/InstanceVariable.java,1\f\1f32dd95e735dc270d4652a208718c4260f8d90f
 P
  src/variable/StaticVariable.java,9\5\95b095a0c6051e3628ec4735567bf62d90dcb09a
+R
+"src/variable/ExampleOfVarArgs.java,7\5\75f6e4f7d0a0b6c15038c61c7eadf8da94414c5f
+S
+#src/variable/ExampleOfVarArgs2.java,3\8\383f4d2724bc236e6c08391f6c026419b3797816
+F
+src/variable/Test.java,2\6\260411b983b8056a53690811dc0b3ba4763c80cf
