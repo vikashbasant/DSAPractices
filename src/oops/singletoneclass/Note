@@ -1,0 +1,118 @@
+What is SingleTon Class?
+    -> For any java class if we are allowed to create only one object, such type of class is called Singleton class.
+        -> Likes: Runtime, BusinessDelegate, ServiceLocator, ActionServlet.
+
+    -> SingleTon classes we can't create using (constructor & new operator).
+        -> Because the Regions is If The Person are allowed to call constructor then he can create as many object he wants to.
+
+    -> That why SingleTon classes create using (factory method):
+        like: Runtime r1 = Runtime.getRuntime();
+              Runtime r2 = Runtime.getRuntime();
+              |
+              |
+              |
+              |
+              Runtime r1000000 = Runtime.getRuntime();
+
+Advantage of SingleTon ?
+    -> 1. If several people have same requirements, then it is not recommended to create a separated object for every requirement.
+    -> 2. We have to create create only one object & we can reuse same object for every similar requirement.
+    -> 3. So that performance & memory utilization will we improved.
+    -> 4. This is central idea of SingleTon classes.
+
+
+How to create our Own Singleton classes?
+    -> We can create our own singleton classes, for this we can used 2 approaches:
+    -> private constructor, private static variable, and public factory method:
+
+    Approach1: By using factory methods, Test t = Test.getTest();
+
+    Likes:
+
+        class Test {
+
+            private static Test t = new Test();
+
+            private Test() {
+
+            }
+
+            public static Test getTest() {
+                return t;
+            }
+
+            public static void main(String[] args) {
+                Test t1 = Test.getTest();
+                Test t2 = Test.getTest();
+                |
+                |
+                |
+                |
+                Test t10000 = Test.getTest();
+            }
+
+        }
+
+Note:
+    -> Runtime class is internally implemented by using this approach.
+
+
+    Approach 2:
+        class Test {
+
+            private static Test t = null;
+
+            private Test() {
+
+            }
+
+            public static Test getTest() {
+                if (t == null) {
+                    t = new Test();
+                }
+                return t;
+            }
+
+            public static void main(String[] args) {
+                Test t1 = Test.getTest();
+                Test t2 = Test.getTest();
+                |
+                |
+                |
+                |
+                Test t10000 = Test.getTest();
+            }
+        }
+
+        -> At any point of time for Test class, we can create only one object. Hence, Test class is Singleton class and.
+
+Is it possible to create our own Singleton Classes?
+    -> Yes
+
+Main purpose of private constructor ?
+    -> The main purpose of private constructor is to create our own singleton class.
+
+If the class is final then, is it possible to create child classes?
+    -> No
+
+If the class is not final, but we are not allowed to create child classes. How it possible ?
+    -> Declare every constructor as private. Then we can't create child classes.
+
+    Likes:
+        class Parent {
+            private Parent() {
+                super();
+            }
+        }
+
+        class Child extends Parent {
+            Child() {
+                super(); // we can't create child classes, because Parent constructor is private. we can't from the outside from the classes below.
+            }
+        }
+
+
+
+
+
+
