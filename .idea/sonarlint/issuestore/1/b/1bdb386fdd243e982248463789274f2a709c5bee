@@ -1,0 +1,17 @@
+
+_
+java:S2259"BA "NullPointerException" could be thrown; "that" is nullable here.(ÆĞŠ¥8ÜØ™ÿ0
+m
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8ŞØ™ÿ0
+<
+java:S2097"Add a type test to this method.(ÜÑã8åØ™ÿ0
+T
+java:S1117"7Rename "name" which hides the field declared at line 4.(„ÆÕÁ8åØ™ÿ0
+[
+java:S1117"9Rename "rollNo" which hides the field declared at line 5.(Ìˆ«¬ùÿÿÿÿ8æØ™ÿ0
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÅÍï®8çØ™ÿ0
+—
+java:S2159*"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(‡İ¬Ó8õÿ0
+s
+java:S2159+"VRemove this call to "equals"; comparisons between unrelated types always return false.(‘íÈÔ8™ªÿ0

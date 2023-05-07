@@ -1,0 +1,15 @@
+
+_
+java:S2259"BA "NullPointerException" could be thrown; "that" is nullable here.(İ‚º›8’çîÿ0
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+5
+java:S2097"Add a type test to this method.(ÜÑã
+Z
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ßÈ´
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(İ‚º›
+•
+java:S2159."zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(˜ú‚Àúÿÿÿÿ
+l
+java:S2159/"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÀŞî‚

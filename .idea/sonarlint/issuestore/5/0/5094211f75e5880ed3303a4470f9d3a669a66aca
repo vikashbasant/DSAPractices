@@ -1,0 +1,9 @@
+
+r
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ï«¡Ïüÿÿÿÿ8¸·‚ÿ0
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(™±à“şÿÿÿÿ8ó·‚ÿ0
+œ
+java:S2159-"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(óËÓÃıÿÿÿÿ8·‚ÿ0
+s
+java:S2159."VRemove this call to "equals"; comparisons between unrelated types always return false.(÷›–Å8·‚ÿ0
