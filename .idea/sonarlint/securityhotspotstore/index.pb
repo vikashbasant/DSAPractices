@@ -239,3 +239,17 @@ R
 "src/langpackage/clone/ExClone.java,e\7\e78fd294e43f0b2e5cdafdee1316e3178c167d5c
 X
 (src/langpackage/getclass/ExGetClass.java,9\9\99a4b088a53be80a2c6d0cd16934a0f29640f508
+W
+'src/fileiopackage/fileio/FileDemo5.java,7\c\7c50acfcbf67cd6a9cf3b2fd797cc29c4b131dc6
+W
+'src/fileiopackage/fileio/FileDemo1.java,3\6\364a0b56092170817e466c7e56a5e831bc8e478f
+W
+'src/fileiopackage/fileio/FileDemo2.java,8\e\8e27b01189ba122ad5e0268228e1f15ad9e32a4d
+W
+'src/fileiopackage/fileio/FileDemo3.java,3\c\3cd4c3f5777358436b4b10d61f208495466517b8
+W
+'src/fileiopackage/fileio/FileDemo4.java,d\6\d60b65bddb2a76c34cf29d28ad194b27f07fe678
+W
+'src/fileiopackage/fileio/FileDemo6.java,3\9\39222c717a9c0a853f6a4b1f40fbc506ea81c20b
+W
+'src/fileiopackage/fileio/FileDemo7.java,7\0\70f5636b2ddba1539611c78ef77db71f149b9977
