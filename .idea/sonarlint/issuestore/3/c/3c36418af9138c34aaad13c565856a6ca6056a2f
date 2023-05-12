@@ -1,0 +1,9 @@
+
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(½ç®w8ªýæû€1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(–¨Äêýÿÿÿÿ8¯ýæû€1
+„
+java:S4087%"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(¢¿ˆþÿÿÿÿÿ8éØñû€1
+>
+java:S1116"Remove this empty statement.(ú¦Â“úÿÿÿÿ8ñýæû€1
