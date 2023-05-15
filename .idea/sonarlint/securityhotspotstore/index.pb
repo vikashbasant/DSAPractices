@@ -9,8 +9,6 @@ K
 src/array/InverseArray.java,c\c\ccc27117f1da3a6e9c5103cfee104e206a1e542d
 S
 #src/array/DifferenceOfTwoArray.java,3\6\361415cf058809fd15328cbf3cf9f45a5844b1d9
-G
-src/array/BarChart.java,8\7\87ad9adc9a8ccac15b09a2017160ffb5d8f88cea
 Q
 !src/array/FindElementInArray.java,6\4\640892217f89d9b64afdea17a43f2dcceac6ce62
 V
@@ -31,14 +29,8 @@ S
 #src/variable/ExampleOfVarArgs2.java,3\8\383f4d2724bc236e6c08391f6c026419b3797816
 F
 src/variable/Test.java,2\6\260411b983b8056a53690811dc0b3ba4763c80cf
-C
-src/main/Main1.java,7\4\7487f94c1b53592d49f69e21d4463f451fb5d87e
 B
 src/main/Test.java,4\7\479a758b42017cab1ab37b648017e67fe6c05495
-C
-src/main/Main2.java,0\f\0fab48c505b30f0edbd21ed14fe68544389bfb54
-D
-src/main/Parent.java,5\2\523b7685364ad6e9b09924c28ca7b27810545cb9
 `
 0src/operatorsAndAssignment/IsInstanceMethod.java,7\f\7feae967700727a2f4205f0c3288f0ca3cd70d26
 `
