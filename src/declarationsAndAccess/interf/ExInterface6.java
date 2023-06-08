@@ -8,7 +8,7 @@ interface Right {
     public int methodOne();
 }
 
-//class Test implements Left, Right {
+//class DubanggPattern implements Left, Right {
 //
 ////    @Override
 ////    public void methodOne() {
