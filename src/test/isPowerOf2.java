@@ -1,8 +1,8 @@
 package test;
 
-class Solution {
+class isPowerOf2 {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        isPowerOf2 solution = new isPowerOf2();
         solution.isPowerOfTwo(5);
     }
 

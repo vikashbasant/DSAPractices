@@ -5,9 +5,8 @@ import java.util.Scanner;
 public class IsPrime {
 
     public static boolean isPrime(int n) {
-        for (int i = 2; i < n; i++) {
-            if (n % i == 0) {
-                
+        for (int div = 2; div <= Math.sqrt(n); div++) {
+            if (n % div == 0) {
                 return false;
             }
         }
@@ -20,9 +19,9 @@ public class IsPrime {
 
         boolean result = isPrime(n);
         if (result) {
-            System.out.println(n + " this number is prime!");
+            System.out.println(n + " this number Prime!");
         } else {
-            System.out.println(n + " this number is not prime!");
+            System.out.println(n + " this number not Prime!");
         }
     }
 }

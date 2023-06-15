@@ -6,7 +6,7 @@ public class MagicNumber {
 
     public static boolean isMagiceNo(int n) {
         int total = 0;
-        while (n > 0 || total > 9) {
+        while (n > 0 || total >= 9) {
             if (n == 0) {
                 n = total;
                 total = 0;
