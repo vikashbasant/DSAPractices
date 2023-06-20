@@ -383,3 +383,11 @@ V
 &src/test/FindDiameterOfBinaryTree.java,b\f\bf84a63a676be8e72962c48e0288c629e65a5eb4
 H
 src/test/SumOfArray.java,d\4\d43d2b131aa47a0ef464c8a0a3ce6f21e37b941f
+\
+,src/multitreading/deadlock/DeadLockDemo.java,1\1\11c30dcedde20b859f0d7277cee7728b0f1bf372
+d
+4src/multitreading/daemonthread/DaemonThreadDemo.java,a\1\a1a1d7a7ec958345e3a88dd9c817d21de3e918f3
+]
+-src/multitreading/deadlock/DeadLockDemo1.java,6\d\6d6e1195c6cedd5068862e0b1c9c601766315eaf
+]
+-src/multitreading/deadlock/DeadLockDemo2.java,c\0\c0184e1b65bcaf320a27c50d823071ccf1072915
