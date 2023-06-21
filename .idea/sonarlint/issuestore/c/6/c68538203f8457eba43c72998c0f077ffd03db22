@@ -1,0 +1,10 @@
+
+€
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8ŞÊŒ¼1
+J	java:S108
+")Either remove or fill this block of code.(è®ã¶øÿÿÿÿ8õÊŒ¼1
+N
+java:S1874",Remove this use of "stop"; it is deprecated.(÷Ûšƒøÿÿÿÿ8ûÊŒ¼1
+Q
+java:S1874"/Remove this use of "suspend"; it is deprecated.(Ş…Ã±ıÿÿÿÿ8ıÊŒ¼1
