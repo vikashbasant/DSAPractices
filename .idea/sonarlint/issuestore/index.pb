@@ -443,3 +443,15 @@ Jsrc/serialization/customizedserialization/CustomizedSerializationDemo.java,1\7
 Ksrc/serialization/customizedserialization/CustomizedSerializationDemo1.java,d\e\de66b2082effe3bdc008f2074514bc309d509d1a
 ç
 ]src/serialization/serializationwithrespecttoinheritance/SerializationWRTInheritanceDemo1.java,1\a\1a60187f5b24e5ee4c8c31a6efff97b91a8b4eb3
+å
+\src/serialization/serializationwithrespecttoinheritance/SerializationWRTInheritanceDemo.java,8\2\823ecb6287408f745627b18a0d899c22b0ed0437
+{
+Ksrc/serialization/customizedserialization/CustomizedSerializationDemo2.java,c\c\cca84cf4af9c01a222628a5c011611bb32486391
+j
+:src/serialization/externalization/ExternalizationDemo.java,1\4\14fc2e4996a92a27d1598e9c9fd38a0d258c5808
+l
+<src/serialization/serialversionuid/SerialVersionUIDDemo.java,0\2\022d3918cc786b7517cead334c4c337d04a6b409
+^
+.src/serialization/serialversionuid/Sender.java,3\0\30fd68894f3cc4e53186777c9721036b6f55c2be
+`
+0src/serialization/serialversionuid/Recevier.java,1\9\1977f684e414c861b5ace07790557fe65aa4e506
