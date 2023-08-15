@@ -9,7 +9,7 @@ create a class Employee
 Member Variable : name=’Java P’ and salary=50000.
 Member Method:Display_emp() To display value of member variable of Employee class.
 create a class Programmer
-Member Variable : department=’IT’ and bonus=3000.
+Member Variable: department=’IT’ and bonus=3000.
 Member Method: Display_programmer() To display value of member variable of Programmer class.
 Do inherit Employee class in Programmer class. Create object of Programmer class & print value of name, salary, department
 	* */
