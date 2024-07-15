@@ -14,7 +14,12 @@ public class Main2 {
 //    }
 
     public static void main(String... args) {
+
         System.out.println("String[]  main method");
+
+        System.out.println();
+
+
     }
 
     public static void main(int[] args) {

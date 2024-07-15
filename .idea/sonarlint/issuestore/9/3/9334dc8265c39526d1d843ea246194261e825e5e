@@ -1,0 +1,6 @@
+
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(³ÜÕ‘ýÿÿÿÿ8¸ÜÑÀà1J$6c571445-1212-4cd7-aa7d-3d3188ece1a3
+r	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8¼ÜÑÀà1J$d5be10fe-96eb-4e21-8963-cee6364c6d43
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8¼ÜÑÀà1J$b47d863d-429a-4a57-8b75-3de1d314dc8a

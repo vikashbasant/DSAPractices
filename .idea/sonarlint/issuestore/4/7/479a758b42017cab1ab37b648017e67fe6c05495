@@ -1,3 +1,10 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Öš®Ðÿÿÿÿÿ
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+l	java:S106"+Replace this use of System.out by a logger.(±¾Ùf8à¸‰©å1J$a967fd20-3ee6-44c0-af87-7374e0d4b2e8
+x
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8á¸‰©å1J$27727a34-6999-41cf-bd7d-80eaade955e6
+‚
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8â¸‰©å1J$bb9a61d0-64ae-4a0d-84fe-725939dc35e2
+w
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8â¸‰©å1J$2d58dd18-c24e-405d-8e5d-98278de99444
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8â¸‰©å1J$cc341f39-4e3e-4258-80ab-2fe95999a1d1

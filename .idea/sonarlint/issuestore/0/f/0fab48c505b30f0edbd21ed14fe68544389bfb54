@@ -1,6 +1,9 @@
 
-V	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(Ò•§êşÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(çíİ›
-A
-java:S1172"+Remove this unused method parameter "args".(ú‡Ä¨
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8’õ˜¢Á1J$be87df00-5ce5-4b34-92f6-3e7abfce1769
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ò•§êşÿÿÿÿ8’õ˜¢Á1J$b04d8726-5a79-4ac8-a476-b019cf87faaf
+~	java:S125"<This block of commented-out lines of code should be removed.(çíİ›8’õ˜¢Á1J$68b92bfb-f920-42d4-b942-011e883f2fc3
+m	java:S106"+Replace this use of System.out by a logger.(ÿÑ§™8“õ˜¢Á1J$c829b58f-3fb6-42bf-9438-c44f2ec589b7
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Çœ¢Á1J$5815a33c-ffaf-4b7e-acd6-5d200e6ca50a
+n
+java:S1172"+Remove this unused method parameter "args".(ú‡Ä¨8”õ˜¢Á1J$6cb3f724-8d32-459f-960c-1b6d9cc48a35
+r	java:S106"+Replace this use of System.out by a logger.(¼¬°›şÿÿÿÿ8Õù¢ÌÁ1J$9916244b-0f74-4bdf-b46a-c088785d22a2
