@@ -1,7 +1,7 @@
 package jvmarchitecutre.classclassobjectdemo;
 
 /**
- * Note: For Every loaded .class file Only One Class Object will be Created, even though we are
+ * Note.md: For Every loaded .class file Only One Class Object will be Created, even though we are
  * using Class Multiple Times in Our Application.
  */
 public class ClassClassObjectStudentDemo2 {
