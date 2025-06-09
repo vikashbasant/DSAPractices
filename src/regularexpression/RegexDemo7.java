@@ -3,7 +3,7 @@ package regularexpression;
 import java.util.Scanner;
 
 /**
- * Note: String class split() method can take regular expression as argument, whereas
+ * Note.md: String class split() method can take regular expression as argument, whereas
  * <p/>
  * pattern class split() method can take target string as the argument.
  * <p/>
